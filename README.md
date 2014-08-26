@@ -1,7 +1,3 @@
 Mini-Project
 ============
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/gouravzutshi/Mini-Project.git
-git push -u origin master
+My 7th semester B.E.  project which involves working on baugh woolley and booth's algorithms to attempt to come up with a faster multiplier.
